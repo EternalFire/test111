@@ -1,7 +1,6 @@
 ---
 title: "Article"
 date: 2021-12-20T05:20:24+08:00
-draft: true
 description: "dfsfsdfs sdf sdf"
 slug: "yuliyuli-pic"
 tags:
