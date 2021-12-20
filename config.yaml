@@ -1,0 +1,25 @@
+baseURL: 'https://etfire.gitee.io/home'
+languageCode: 'cn'
+title: 'hh719ug'
+# theme: 'hyde'
+theme: 'the-roots-home'
+
+SectionPagesMenu: "main"
+
+params:
+  description: ""
+
+# enableGitInfo: true
+enableEmoji: true
+enableRobotsTXT: true
+
+# Syntax Highlight Options
+pygmentsCodeFencesGuessSyntax: true
+pygmentsCodeFences : true
+pygmentsUseClasses: true
+pygmentsStyle: vs
+pygmentsOptions:
+  linenos: true
+
+# markup:
+#   defaultMarkdownHandler: goldmark
