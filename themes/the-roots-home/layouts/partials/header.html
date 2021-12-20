@@ -1,5 +1,5 @@
 <header class="site-header">
-    <ion-icon name="pricetag-outline"></ion-icon>&nbsp;<a href="tags">tags</a>&nbsp;
+    <ion-icon name="pricetag-outline"></ion-icon>&nbsp;<a href="{{ .Site.BaseURL}}/tags">tags</a>&nbsp;
     <nav class="site-nav" role="navigation" aria-label="breadcrumb">
     <ol itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
       {{- template "breadcrumb" (dict "p1" . "p2" .) -}}
