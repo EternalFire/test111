@@ -5,6 +5,25 @@
     <link>https://eternalfire.github.io/test111/tags/</link>
     <description>Recent content in Tags on hh719ug</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>cn</language><atom:link href="https://eternalfire.github.io/test111/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>cn</language>
+    <lastBuildDate>Mon, 20 Dec 2021 09:31:34 +0800</lastBuildDate><atom:link href="https://eternalfire.github.io/test111/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tag1</title>
+      <link>https://eternalfire.github.io/test111/tags/tag1/</link>
+      <pubDate>Mon, 20 Dec 2021 09:31:34 +0800</pubDate>
+      
+      <guid>https://eternalfire.github.io/test111/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>https://eternalfire.github.io/test111/tags/tag2/</link>
+      <pubDate>Mon, 20 Dec 2021 09:31:34 +0800</pubDate>
+      
+      <guid>https://eternalfire.github.io/test111/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
