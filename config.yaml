@@ -1,13 +1,17 @@
 baseURL: 'https://eternalfire.github.io/test111/'
 languageCode: 'cn'
-title: 'hh719ug'
+title: '`\»🍀 «/'
 # theme: 'hyde'
 theme: 'the-roots-home'
 
 SectionPagesMenu: "main"
 
 params:
-  description: ""
+  description: ". .. bin dev home tmp var etc usr 🀅"
+
+# relativeURLs: true
+
+cleandestinationdir: true
 
 # enableGitInfo: true
 enableEmoji: true

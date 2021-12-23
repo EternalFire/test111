@@ -1,27 +1,216 @@
 ---
-title: "Article"
+title: "AKALIN"
 date: 2021-12-20T05:20:24+08:00
-description: "dfsfsdfs sdf sdf"
+description: "akalin yuliyuli"
 slug: "yuliyuli-pic"
 tags:
-- tag1
+- akalin
 ---
 
-- [aklin](#aklin)
-  - [1](#1)
-  - [2](#2)
-  - [3](#3)
+# akalin
 
-# aklin
+Test Page...
 
-## 1
+Assets comeeeee frommmm Internet... 🙈
 
-![IMG_7049](aklin/IMG_7049.JPG)
 
-## 2
 
-![IMG_7054](aklin/IMG_7054.JPG)
 
-## 3
 
-![IMG_7054](aklin/IMG_7050.JPG)
+
+
+
+
+
+
+
+
+
+![1](aklin/IMG_7047.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![2](aklin/IMG_7048.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![3](aklin/IMG_7050.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![4](aklin/IMG_7049.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![5](aklin/IMG_7051.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![6](aklin/IMG_7052.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![7](aklin/IMG_7053.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![8](aklin/IMG_7054.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
