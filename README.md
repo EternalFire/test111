@@ -1,1 +1,3 @@
 hello
+
+blog use hugo
