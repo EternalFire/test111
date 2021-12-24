@@ -46,6 +46,9 @@ hugo server
 ```sh
 # build the site
 hugo
+
+# change site url and destination
+hugo -b "http://127.0.0.1/" -d "/abspath/to/dest"
 ```
 
 -----
