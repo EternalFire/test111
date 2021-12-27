@@ -1,0 +1,17 @@
+#!/bin/bash
+echo "{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{"
+rm -rf __repo_1__
+
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+
+# change url and push to another repository
+mkdir __repo_1__
+hugo -b "https://etfire.gitee.io/home/" -d "__repo_1__"
+cd __repo_1__
+git init
+git remote add origin https://gitee.com/etfire/home.git
+git add *
+git commit -m "_publishToGitee: update at `date`"
+git push origin master --force
+
+echo "}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}"
