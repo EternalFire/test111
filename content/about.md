@@ -1,6 +1,9 @@
 ---
 title: "About"
 date: 2021-12-20T04:20:14+08:00
+tags:
+- hugo
+- ascii
 ---
 
 # about what ?
