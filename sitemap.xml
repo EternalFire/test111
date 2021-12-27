@@ -3,7 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://eternalfire.github.io/test111/</loc>
-    <lastmod>2021-12-25T04:04:16+08:00</lastmod>
+    <lastmod>2021-12-28T01:37:24+08:00</lastmod>
+  </url><url>
+    <loc>https://eternalfire.github.io/test111/project/</loc>
+    <lastmod>2021-12-28T01:37:24+08:00</lastmod>
+  </url><url>
+    <loc>https://eternalfire.github.io/test111/tags/project/</loc>
+    <lastmod>2021-12-28T01:37:24+08:00</lastmod>
+  </url><url>
+    <loc>https://eternalfire.github.io/test111/tags/</loc>
+    <lastmod>2021-12-28T01:37:24+08:00</lastmod>
   </url><url>
     <loc>https://eternalfire.github.io/test111/chaos/</loc>
     <lastmod>2021-12-25T04:04:16+08:00</lastmod>
@@ -20,10 +29,13 @@
     <loc>https://eternalfire.github.io/test111/tags/akalin/</loc>
     <lastmod>2021-12-20T05:20:24+08:00</lastmod>
   </url><url>
-    <loc>https://eternalfire.github.io/test111/tags/</loc>
-    <lastmod>2021-12-20T05:20:24+08:00</lastmod>
-  </url><url>
     <loc>https://eternalfire.github.io/test111/about/</loc>
+    <lastmod>2021-12-20T04:20:14+08:00</lastmod>
+  </url><url>
+    <loc>https://eternalfire.github.io/test111/tags/ascii/</loc>
+    <lastmod>2021-12-20T04:20:14+08:00</lastmod>
+  </url><url>
+    <loc>https://eternalfire.github.io/test111/tags/hugo/</loc>
     <lastmod>2021-12-20T04:20:14+08:00</lastmod>
   </url><url>
     <loc>https://eternalfire.github.io/test111/categories/</loc>

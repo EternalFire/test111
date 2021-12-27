@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ascii on `\»🍀 «/</title>
+    <link>https://eternalfire.github.io/test111/tags/ascii/</link>
+    <description>Recent content in ascii on `\»🍀 «/</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Mon, 20 Dec 2021 04:20:14 +0800</lastBuildDate><atom:link href="https://eternalfire.github.io/test111/tags/ascii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://eternalfire.github.io/test111/about/</link>
+      <pubDate>Mon, 20 Dec 2021 04:20:14 +0800</pubDate>
+      
+      <guid>https://eternalfire.github.io/test111/about/</guid>
+      <description>about what ? what? what! hahaha&amp;hellip;
+use hugo  Get hugo: https://gohugo.io/getting-started/quick-start/ Find Theme: https://themes.gohugo.io/   Create site folder:  hugo new site BlogDir Copy theme project to theme directory and modify site-path/config.toml:  baseURL = &amp;#39;http://example.org/&amp;#39; languageCode = &amp;#39;en-us&amp;#39; title = &amp;#39;My New Hugo Site&amp;#39; theme = &amp;#34;hyde&amp;#34; #or other theme name Create article  hugo new &amp;#34;path1/article-name/index.md&amp;#34; Test blog  hugo server Build  # build the site hugo # change site url and destination hugo -b &amp;#34;http://127.</description>
+    </item>
+    
+  </channel>
+</rss>
