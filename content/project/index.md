@@ -16,18 +16,26 @@ tags:
     - [横版闯关 1](#横版闯关-1)
     - [泡泡龙](#泡泡龙)
     - [祖玛](#祖玛)
+    - [胜负走势图](#胜负走势图)
     - [跑酷](#跑酷)
     - [模拟经营(办公室)](#模拟经营办公室)
     - [合成游戏](#合成游戏)
     - [一笔画](#一笔画)
     - [连线(连接两个端点)](#连线连接两个端点)
+    - [红警RTS-建筑功能](#红警rts-建筑功能)
   - [工具](#工具)
+    - [卡丁车路线录制与回放功能](#卡丁车路线录制与回放功能)
     - [导表(xlsx转json)](#导表xlsx转json)
     - [替换资源(保留原文件名)](#替换资源保留原文件名)
     - [python脚本](#python脚本)
     - [chrome extension](#chrome-extension)
+    - [弹珠游戏关卡编辑器](#弹珠游戏关卡编辑器)
   - [其他](#其他)
+    - [autoplay re](#autoplay-re)
+    - [Imgui + Cocos2dx-lua](#imgui--cocos2dx-lua)
+    - [Nuklear + OpenGL](#nuklear--opengl)
     - [聊天室](#聊天室)
+    - [兽娘动物园图鉴](#兽娘动物园图鉴)
     - [一个简单的web单页数据记录应用](#一个简单的web单页数据记录应用)
 
 
@@ -64,10 +72,15 @@ Link:
 
 ### 模拟经营+回合制
 
+<video width="95%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E6%B8%B8%E6%88%8F/%E5%9B%9E%E5%90%88%E5%88%B6/%E5%9B%9E%E5%90%88%E5%88%B61.mp4" type="video/mp4"> </videos>
+
 
 ---
 
 ### 仙侠ARPG
+
+<video width="50%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E6%B8%B8%E6%88%8F/%E4%BB%99%E4%BE%A0/%E4%BB%99%E4%BE%A0arpg.mp4" type="video/mp4"> </videos>
+
 
 
 ---
@@ -94,6 +107,14 @@ Link:
 ### 祖玛
 
 <video width="50%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E6%B8%B8%E6%88%8F/%E7%A5%96%E7%8E%9B/zuma.mp4" type="video/mp4"> </videos>
+
+---
+
+### 胜负走势图
+
+
+<video width="95%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E6%B8%B8%E6%88%8F/%E6%A3%8B%E7%89%8C/test-trendmap.mp4" type="video/mp4"> </videos>
+
 
 ---
 
@@ -128,9 +149,22 @@ Link:
 
 ---
 
+### 红警RTS-建筑功能
 
+<video width="95%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E6%B8%B8%E6%88%8F/%E7%BA%A2%E8%AD%A6RTS/%E7%BA%A2%E8%AD%A6%E5%BB%BA%E7%AD%91.mp4" type="video/mp4"> </videos>
+
+
+---
 
 ## 工具
+
+### 卡丁车路线录制与回放功能
+
+
+<video width="95%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E5%B7%A5%E5%85%B7/%E5%8D%A1%E4%B8%81%E8%BD%A6%E5%BD%95%E5%88%B6%E4%B8%8E%E5%9B%9E%E6%94%BE.mp4" type="video/mp4"> </videos>
+
+
+---
 
 ### 导表(xlsx转json)
 
@@ -164,11 +198,56 @@ Link: [chrome 插件开发](https://gitee.com/etfire/chrome-ext-dev-repo)
 
 ---
 
+### 弹珠游戏关卡编辑器
+
+<video width="95%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E5%B7%A5%E5%85%B7/%E5%BC%B9%E7%8F%A0%E6%B8%B8%E6%88%8F%E5%85%B3%E5%8D%A1%E7%BC%96%E8%BE%91%E5%99%A8.mp4" type="video/mp4"> </videos>
+
+摆放关卡中的怪物, 导出配置.
+
+---
+
 ## 其他
+
+### autoplay re
+
+<video width="95%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E5%85%B6%E4%BB%96/demo-autoplayre.mp4" type="video/mp4"> </videos>
+
+Link: [repo](https://gitee.com/etfire/autoplayre)
+
+一个通过python脚本, 存储/发送点击序列的游戏辅助工具.
+
+---
+
+### Imgui + Cocos2dx-lua
+
+<video width="95%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E5%85%B6%E4%BB%96/imgui%2Bcocos2dx-lua.mp4" type="video/mp4"> </videos>
+
+将Imgui库接入cocos2dx-lua引擎, 运行demo.
+
+---
+
+### Nuklear + OpenGL
+
+<video width="95%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E5%85%B6%E4%BB%96/Nuklear%2BOpenGL.mp4" type="video/mp4"> </videos>
+
+使用 Nuklear(GUI库) 调整OpenGL着色器参数的demo.
+
+---
 
 ### 聊天室
 
-基于 `socket.io`
+<video width="95%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E5%85%B6%E4%BB%96/chatroom-ws.mp4" type="video/mp4"> </videos>
+
+Link: [demo](http://echo1.simplesns.net:1884/)
+
+基于 `websocket`
+
+
+---
+
+### 兽娘动物园图鉴
+
+Link: [demo](https://a1-1301480300.file.myqcloud.com/_static/Friends/japaripark/index.html)
 
 ---
 
