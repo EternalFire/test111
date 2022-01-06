@@ -20,3 +20,6 @@ git commit -m "_publish: update at `date`"
 git push origin master --force
 
 echo "}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}"
+
+echo "open gitee refresh page"
+python -mwebbrowser https://gitee.com/etfire/home/pages
