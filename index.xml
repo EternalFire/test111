@@ -6,14 +6,70 @@
     <description>Recent content on `\»🍀 «/</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <lastBuildDate>Tue, 28 Dec 2021 01:37:24 +0800</lastBuildDate><atom:link href="https://eternalfire.github.io/test111/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jan 2022 07:42:01 +0800</lastBuildDate><atom:link href="https://eternalfire.github.io/test111/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>项目演示--其他</title>
+      <link>https://eternalfire.github.io/test111/projects/other/</link>
+      <pubDate>Thu, 06 Jan 2022 07:42:01 +0800</pubDate>
+      
+      <guid>https://eternalfire.github.io/test111/projects/other/</guid>
+      <description>返回项目记录
+   项目演示&amp;ndash;其他   autoplay re  Imgui + Cocos2dx-lua  Nuklear + OpenGL  聊天室  兽娘动物园图鉴  一个简单的web单页数据记录应用     项目演示&amp;ndash;其他 autoplay re 
+Link: repo
+一个通过python脚本, 存储/发送点击序列的游戏辅助工具.
+ Imgui + Cocos2dx-lua 
+将Imgui库接入cocos2dx-lua引擎, 运行demo.
+ Nuklear + OpenGL 
+使用 Nuklear(GUI库) 调整OpenGL着色器参数的demo.
+ 聊天室 
+Link: demo
+基于 websocket
+ 兽娘动物园图鉴 Link: demo
+ 一个简单的web单页数据记录应用 Link: demo</description>
+    </item>
+    
+    <item>
+      <title>项目演示--工具</title>
+      <link>https://eternalfire.github.io/test111/projects/tool/</link>
+      <pubDate>Thu, 06 Jan 2022 07:41:40 +0800</pubDate>
+      
+      <guid>https://eternalfire.github.io/test111/projects/tool/</guid>
+      <description>返回项目记录
+   项目演示&amp;ndash;工具   卡丁车路线录制与回放功能  导表(xlsx转json)  替换资源(保留原文件名)  python脚本  chrome extension  弹珠游戏关卡编辑器     项目演示&amp;ndash;工具 卡丁车路线录制与回放功能 
+Link: repo
+ 导表(xlsx转json) 
+基于 nodejs
+ 替换资源(保留原文件名) 
+Link: replace res tool
+基于 pyqt5
+ python脚本 Link: repo
+ chrome extension Link: chrome 插件开发
+ 弹珠游戏关卡编辑器 
+摆放关卡中的怪物, 导出配置.</description>
+    </item>
+    
+    <item>
+      <title>项目演示--游戏</title>
+      <link>https://eternalfire.github.io/test111/projects/game/</link>
+      <pubDate>Thu, 06 Jan 2022 07:35:42 +0800</pubDate>
+      
+      <guid>https://eternalfire.github.io/test111/projects/game/</guid>
+      <description>返回项目记录
+   项目演示&amp;ndash;游戏   魔方模拟器  俄罗斯方块  模拟经营+回合制  仙侠ARPG  横版闯关 2  横版闯关 1  泡泡龙  祖玛  胜负走势图  跑酷  模拟经营(办公室)  合成游戏  一笔画  连线(连接两个端点)  红警RTS&amp;ndash;建筑功能     项目演示&amp;ndash;游戏 魔方模拟器 
+Link: Basic Cube Training Simulator(GooglePlay)
+ 俄罗斯方块 
+Link:
+  Tetris demo  Tetris repo   模拟经营+回合制 
+ 仙侠ARPG</description>
+    </item>
+    
     <item>
       <title>Project</title>
       <link>https://eternalfire.github.io/test111/project/</link>
       <pubDate>Tue, 28 Dec 2021 01:37:24 +0800</pubDate>
       
       <guid>https://eternalfire.github.io/test111/project/</guid>
-      <description>项目记录   游戏   魔方模拟器  俄罗斯方块  模拟经营+回合制  仙侠ARPG  横版闯关 2  横版闯关 1  泡泡龙  祖玛  胜负走势图  跑酷  模拟经营(办公室)  合成游戏  一笔画  连线(连接两个端点)  红警RTS-建筑功能    工具   卡丁车路线录制与回放功能  导表(xlsx转json)  替换资源(保留原文件名)  python脚本  chrome extension  弹珠游戏关卡编辑器    其他   autoplay re  Imgui + Cocos2dx-lua  Nuklear + OpenGL  聊天室  兽娘动物园图鉴  一个简单的web单页数据记录应用       项目记录 游戏 魔方模拟器</description>
+      <description> 项目记录  游戏  工具  其他 </description>
     </item>
     
     <item>
