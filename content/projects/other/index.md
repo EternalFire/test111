@@ -51,7 +51,7 @@ Link: [repo](https://gitee.com/etfire/autoplayre)
 
 <video width="95%" preload="metadata" controlslist="nodownload" controls muted loop disablePictureInPicture > <source src="https://shareee-1301480300.file.myqcloud.com/%E9%A1%B9%E7%9B%AE%E6%BC%94%E7%A4%BA/%E5%85%B6%E4%BB%96/chatroom-ws.mp4" type="video/mp4"> </videos>
 
-Link: [demo](http://echo1.simplesns.net:1884/)
+Link: [demo](http://101.35.188.28:1884/)
 
 基于 `websocket`
 
